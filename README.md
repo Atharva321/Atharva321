@@ -1,5 +1,5 @@
 Hii👋 there, I am a Final Year Student of Computer Engineering.
-Currently I am learning devops tools and java.
+Currently I am learning devops tools and doing dsa in java.
 
 
 [![](https://raw.githubusercontent.com/Atharva321/Atharva321/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
