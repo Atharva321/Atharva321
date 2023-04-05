@@ -8,6 +8,6 @@ Currently I am learning devops tools and doing dsa in java.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Atharva321&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Atharva321&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=45%2C0AECFF%2CF80AFF&fire=03EBE6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Atharva321&row=2&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=45%2C0AECFF%2CF80AFF&fire=03EBE6)](https://git.io/streak-stats)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
