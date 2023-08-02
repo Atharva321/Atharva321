@@ -10,8 +10,4 @@ Currently I am learning devops tools and doing dsa in java.
 [![GitHub Streak](https://streak-stats.demolab.com?user=Atharva321&row=2&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=45%2C0AECFF%2CF80AFF&fire=03EBE6)](https://git.io/streak-stats)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+- ![Snake animation](https://github.com/Atharva321/Atharva321/blob/output/github-contribution-grid-snake.svg)
