@@ -1,6 +1,6 @@
-Hii👋 there, I am a Final Year Student of Computer Engineering.
-Currently I am learning devops tools and doing dsa in java.
+# 👋 Hello, I'm Atharva! 
 
+Welcome to my GitHub profile. I'm a passionate Computer Engineering graduate with a strong knack for coding and problem-solving. 🚀
 
 
 [![](https://raw.githubusercontent.com/Atharva321/Atharva321/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
