@@ -31,7 +31,7 @@ jobs:
            svg_out_path: dist/github-snake.svg
          
 
-      - uses: Atharav321/ghaction-github-pages@v2.1.3
+      - uses: Atharva321/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: public
